@@ -1,4 +1,4 @@
-My own mod for [Superfighters Deluxe](https://store.steampowered.com/app/855860/Superfighters_Deluxe). Superfighters Deluxe Custom.
+Modificacion del menu de [Superfighters Deluxe](https://store.steampowered.com/app/855860/Superfighters_Deluxe). Superfighters Deluxe Custom.
 
 <p align="center"><img src="docs/SFD_titleLoop.gif" width=75%/></p>
 
