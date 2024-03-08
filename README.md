@@ -1,6 +1,6 @@
 Modificacion del menu de [Superfighters Deluxe](https://store.steampowered.com/app/855860/Superfighters_Deluxe). Superfighters Deluxe Custom.
 
-<p align="center"><img src="docs/SFD_titleLoop.gif" width=75%/></p>
+<p align="center"><img src="docs/LogoSmall.png" width=75%/></p>
 
 - It adds some features that I personally like to SFD. 
 - Players without SFDCT can join your server, and you can join other vanilla servers while using SFDCT.
