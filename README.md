@@ -9,19 +9,14 @@ Modificacion "fanservice" que muestra algunas cosas del menú como se veía en v
 
 # CAMBIOS
 
-#### VUELVE EL LOGO DE LA ALPHA
-- Se omitio la animación del logo de SFD Steam y se eliminó la aparicion del logo de SFD Steam
-- Ahora se ha reemplazado por el diseño de la Alpha
-
-<img src="" width=50%/>
+#### VUELVE EL ANTIGUO POSICIONAMIENTO DEL LOGO
+- Se omitio la animación del logo de SFD Steam y el logo de SFD Steam se posiciona en la esquina superior izquierda
 
 #### VUELVE EL ESTILO DE LA PRE-ALPHA
 - Ahora se dibuja `MenuLogo` al haber cargado SFD.
-<img src="" width=50%/>
 
 #### MENU MUSIC
-- Se ha cambiado la música del menu por la que tenía anteriormente (`SFDClassic`).
-<img src="" width=35%/>
+- Se ha cambiado la música del menu por la que tenía anteriormente `SFDClassic`.
 
 
 # PRECAUCIÓN
@@ -31,11 +26,11 @@ Modificacion "fanservice" que muestra algunas cosas del menú como se veía en v
 
 # INSTALACIÓN
 
-1. Descarga la [versión más reciente](https://github.com/Liokindy/SFDCT/releases) y extrae los componentes en la carpeta raíz de Superfighters Deluxe. (`C:\Program Files (x86)\Steam\steamapps\common\Superfighters Deluxe`)
+1. Descarga la [versión más reciente](https://github.com/pesadidya/SFDCT/releases/tag/SFD) y extrae los componentes en la carpeta raíz de Superfighters Deluxe. (`C:\Program Files (x86)\Steam\steamapps\common\Superfighters Deluxe`)
 
 <img src="docs/installation0.png" width=75%/>
 
-2. Anda a las Propiedas de SFD en Steam y escribe `cmd /c "%command%\..\SFDCT.exe"`. (Esto inicia un cmd que te permite escojer entre SFD, SFDCT y SFR. Si te molesta tener que escojer la version cada vez que abres el juego puedes escribir esto `cmd /c "%command%\..\SFDCT.exe -SFDCT"` para iniciar SFDCT sin tener que estar escojiendo a cada rato)
+2. Anda a las Propiedas de SFD en Steam y escribe `cmd /k "%command%\..\SFDCT.exe"`. (Esto inicia un cmd que te permite escojer entre SFD, SFDCT y SFR. Si te molesta tener que escojer la version cada vez que abres el juego puedes escribir esto `cmd /k "%command%\..\SFDCT.exe -SFDCT"` para iniciar SFDCT sin tener que estar escojiendo a cada rato)
 
 <img src="docs/steamLaunchParameters.png" width=75%/>
 
